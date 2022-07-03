@@ -56,19 +56,21 @@ Thats it!
 
 # Installing
 
-1. Go to [Releases](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/releases)
+#### 1. Go to [Releases](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/releases)
 
 
-2. Download the latest release!
+#### 2. Download the latest release .rar file!
 
-3. Put the folder on your Desktop
+![image](https://user-images.githubusercontent.com/90850836/177033663-1846a1c7-9193-41f2-8495-22e2892553c1.png)
 
-4. Make sure igcmdWin10.exe is in the same directory as the main.pyw file!
+#### 3. Put the zipped rar file on your Desktop
 
-5. Done! You are now all set up!
+#### 4. Extract the folder from the rar file
+![image](https://user-images.githubusercontent.com/90850836/177033737-75bb9f63-8781-4e39-9e43-0e1b57365980.png)
 
+#### 5. Done! You are now all set up!
 
-
+<br>
 
 ## 🎈 Usage <a name="usage"></a>
 
