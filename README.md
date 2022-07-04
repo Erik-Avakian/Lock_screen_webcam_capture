@@ -8,7 +8,7 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![Forks](https://img.shields.io/github/forks/Erik-Avakian/Lock_screen_webcam_capture)]() [![Stars](https://img.shields.io/github/stars/Erik-Avakian/Lock_screen_webcam_capture)]() [![GitHub Issues](https://img.shields.io/github/issues/Erik-Avakian/Lock_screen_webcam_capture)](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/pulls) [![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
+[![Status](https://img.shields.io/badge/status-active-success.svg)]() [![Forks](https://img.shields.io/github/forks/Erik-Avakian/Lock_screen_webcam_capture)]() [![Stars](https://img.shields.io/github/stars/Erik-Avakian/Lock_screen_webcam_capture)]() [![GitHub Issues](https://img.shields.io/github/issues/Erik-Avakian/Lock_screen_webcam_capture)](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/issues) [![GitHub Pull Requests](https://img.shields.io/github/issues-pr/kylelobo/The-Documentation-Compendium.svg)](https://github.com/Erik-Avakian/Lock_screen_webcam_capture/pulls) [![License](https://img.shields.io/badge/license-GPLv3-green.svg)](/LICENSE)
 
 </div>
 
