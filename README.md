@@ -47,6 +47,7 @@ You also need to pip install open-cv-python
 
 Documentation for [Open-CV](https://pypi.org/project/opencv-python/)
 
+Here is a [Tutorial](https://www.youtube.com/watch?v=U2ZN104hIcc) on how to use pip if you have never used it before.
 
 ```sh
 pip install opencv-python
